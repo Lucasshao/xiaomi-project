@@ -26,3 +26,9 @@ a{
   display:table;
   clear:both;
 }
+
+img{
+  width: 100%;
+  /* 清除图片间的空隙 */
+  vertical-align:middle; 
+}
